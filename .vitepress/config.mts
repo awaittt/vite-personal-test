@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:'/vite-personal-test',
   title: "个人小屋",
   description: "生活点滴记录文档",
   themeConfig: {

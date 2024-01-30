@@ -6,5 +6,8 @@
     "docs:dev": "vitepress dev --open",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "pnpm": "^8.15.1"
   }
 }

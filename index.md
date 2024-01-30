@@ -7,7 +7,7 @@ hero:
   text: "生活点滴记录文档"
   tagline: 搞钱要紧，可以没有爱，不能没有钱
   image: 
-      src: /background.png
+      src: /background.webp
       alt: 背景图片
   actions:
     - theme: brand

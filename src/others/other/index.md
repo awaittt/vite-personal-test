@@ -10,7 +10,7 @@ const count = ref(0)
 
 ## Markdown Content
 
-The count is: [{{ count }}](https://www.17c380.com:6688/4.html)
+[The count is](https://ht75aa.xyz:9527/): [{{ count }}](https://www.17c380.com:6688/4.html)
 
 <button :class="$style.button" @click="count++">Increment</button>
 

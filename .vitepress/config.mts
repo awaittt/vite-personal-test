@@ -25,10 +25,16 @@ export default defineConfig({
       {
         text: "前端",
         items: [
-          { text: "React", link: "/src/react/index" },
-          { text: "Vue", link: "/src/vue/index" },
-          { text: "微信小程序", link: "/src/wechat/index" },
-          { text: "鸿蒙os", link: "/src/hongmeng/index" },
+          { text: "React", link: "/src/front/react/index" },
+          { text: "Vue", link: "/src/front/vue/index" },
+          { text: "微信小程序", link: "/src/front/wechat/index" },
+          { text: "鸿蒙os", link: "/src/front/hongmeng/index" },
+        ],
+      },
+      {
+        text: "其他",
+        items: [
+          { text: "vitepress", link: "/src/others/vitepress/index" }
         ],
       },
     ],

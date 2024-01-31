@@ -57,7 +57,7 @@ export default defineConfig({
     ],
     socialLinks: [{ icon: "github", link: "https://github.com/awaittt" }],
     footer: {
-      copyright: "愿得一人心，白首不分离",
+      copyright: "烂车才需要备胎，闲人才养鱼",
     },
   },
 });

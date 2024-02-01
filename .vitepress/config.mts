@@ -59,5 +59,6 @@ export default defineConfig({
     footer: {
       copyright: "烂车才需要备胎，闲人才养鱼",
     },
+   
   },
 });

@@ -14,8 +14,8 @@ hero:
       text: 阮一峰的个人网站
       link: https://www.ruanyifeng.com/
     - theme: alt
-      text: 抖音
-      link: https://www.douyin.com/
+      text: 文摘
+      link: /books/index
 
 features:
   - title: 好学

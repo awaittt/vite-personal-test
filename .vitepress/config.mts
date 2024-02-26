@@ -45,7 +45,7 @@ export default defineConfig({
         icon: {
           svg: fs.readFileSync("public/svg/douyin.svg", "utf8"),
         },
-        link: "https://www.douyin.com/user/self",
+        link: "https://www.douyin.com/user/MS4wLjABAAAA6huO8ihiChDVnBebqtX5pHBy5hzJ4tCf9fGQJI3bGD70F3VHv6U14sOWB6aaEeKI?modal_id=7257491805141323060",
         ariaLabel: "抖音",
       },
     ],
